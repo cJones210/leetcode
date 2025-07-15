@@ -1,5 +1,4 @@
 class Solution(object):
-    # not optimal method LOL XDXD
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
